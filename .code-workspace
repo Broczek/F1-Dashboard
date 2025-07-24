@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "name": "Python-Backend",
+            "path": "backend"
+        },
+        {
+            "name": "Flutter-Frontend",
+            "path": "frontend/ui"
+        }
+    ],
+    "settings": {}
+}
